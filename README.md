@@ -4,6 +4,8 @@ TERA Proxy module to discard undesired items from your inventory
 # Usage
 Edit **config.json** to set auto-discard default and list items you want trashed.
 
+[Tera Item Database](http://teradatabase.net/us/search/) is a good place to look for item IDs.
+
 ## Commands
 * **trash**: discards all trash in inventory, aka manual garbage-collect instead of automatic 
 * **trash auto**: toggle auto-discard 
