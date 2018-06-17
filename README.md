@@ -17,5 +17,7 @@ Manual trash command seems iffy.
 
 Doesn't discard existing trash in your inventory until you pick up some trash.
 
+Eventually want to include add/remove functionality to save to config.json
+
 # Credits
 Referenced Pinkie's Rootbeer module for inventory parsing and item deletion. 
