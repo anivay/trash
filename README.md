@@ -2,7 +2,7 @@
 TERA Proxy module to discard undesired items from your inventory
 
 # Usage
-Edit config.js to set auto-discard default and list items you want trashed.
+Edit **config.json** to set auto-discard default and list items you want trashed.
 
 ## Commands
 * **trash**: discards all trash in inventory, aka manual garbage-collect instead of automatic 
